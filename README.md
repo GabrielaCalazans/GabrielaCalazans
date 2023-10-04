@@ -1,3 +1,8 @@
+## 🧮 Github Stats
+<div align="center">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
+</div>
+
 ### Hi there 👋
 
 <!--
