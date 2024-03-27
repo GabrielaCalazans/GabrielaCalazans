@@ -24,7 +24,7 @@ Atualmente, estou trabalhando em um projeto grafico "Ray Trace" - que é a técn
 
 ## 🧮 Github Stats
 <img alt="my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=gabrielacalazans&show_icons=true&theme=tokyonight"/>
-<img alt="my top langs" align="left" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacalazans&layout=compact"/>
+<img alt="my top langs" align="right" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacalazans&layout=compact"/>
 
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielacalazans&show_icons=true&theme=tokyonight)
