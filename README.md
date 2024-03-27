@@ -1,6 +1,7 @@
 ## 🧮 Github Stats
-<div align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielacalazans)](https://github.com/gabrielacalazans/github-readme-stats)
+<div align="center">
 </div>
 
 ### Olá, sou Gabriela (ela/dela) 👋
