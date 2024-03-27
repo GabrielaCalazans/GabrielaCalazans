@@ -1,6 +1,6 @@
 ## 🧮 Github Stats
 <div align="center">
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielacalazans)](https://github.com/gabrielacalazans/github-readme-stats)
 </div>
 
 ### Olá, sou Gabriela (ela/dela) 👋
