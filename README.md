@@ -1,10 +1,3 @@
-<!--## 🧮 Github Stats-->
-
-
-</div>
-
-
-
 <!--
 **GabrielaCalazans/GabrielaCalazans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,6 +22,11 @@ Here are some ideas to get you started:
 </div>
 Atualmente, estou trabalhando em um projeto grafico "Ray Trace" - que é a técnica de renderização 3D de uma cena que calcula a imagem desta cena simulando a forma como os raios de luz percorrem o seu caminho no mundo real.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielacalazans&show_icons=true&theme=tokyonight)
+## 🧮 Github Stats
+<img alt="my stats" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=gabrielacalazans&show_icons=true&theme=tokyonight"/>
+<img alt="my top langs" align="left" width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacalazans&layout=compact"/>
+
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielacalazans&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacalazans&layout=compact)
-<div align="center">
+<div align="center">-->
