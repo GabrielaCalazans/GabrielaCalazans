@@ -3,7 +3,7 @@
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
 </div>
 
-### Hi there 👋
+### Olá sou Gabriela (ela/dela) 👋
 
 <!--
 **GabrielaCalazans/GabrielaCalazans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="left">
-<p>Olá, sou Gabriela (ela/dela)</p>
 <p>Vindo da área administrativa financeira, atualmente estou imersa nos estudos de Engenharia de Software na 42 SP e de Análise e Desenvolvimento na Fatec. Minha paixão pela tecnologia nasceu da constante busca por soluções eficientes e inovadoras, uma habilidade que desenvolvi durante minha experiência profissional anterior. </p>
 <p>Além disso, sou uma entusiasta apaixonada por Cyber Security, buscando constantemente aprimorar meus conhecimentos nessa área fascinante.</p> 
 <p>Fora do mundo tecnológico, sou viciada em ficção científica, encontrando inspiração nas possibilidades infinitas que esse gênero oferece.</p>
